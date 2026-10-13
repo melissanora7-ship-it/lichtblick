@@ -21,7 +21,7 @@ const SKIP_CATEGORIES = ["this day in history", "on this day", "gnm+", "politik"
 // Erste passende Regel gewinnt. Geprüft werden nur Titel und Feed-Kategorien, der Anrisstext ist zu ungenau.
 const TOPICS = [
   ["Tiere", /\b(tier|tiere|wildtier|vogel|vögel|wal|wale|delfin|hund|katze|elefant|bären|wolf|luchs|biene|insekt|schildkröte|animal|wildlife|bird|whale|dolphin|dog|cat|elephant|bees?|turtles?|species|art(en)?schutz|zoo)\b/i],
-  ["Klima", /\b(klima|solar|wind(kraft|energie)?|erneuerbarw*|energiew*|e-auto|elektrow*|emissionw*|co2|fossilw*|climate|renewable|energy|electric|emissions|carbon|heat pump|wärmepumpe|batter(y|ie))\b/i],
+  ["Klima", /\b(klima|solar|wind(kraft|energie)?|erneuerbar\w*|energie\w*|e-auto|elektro\w*|emission\w*|co2|fossil\w*|climate|renewable|energy|electric|emissions|carbon|heat pump|wärmepumpe|batter(y|ie))\b/i],
   ["Natur", /\b(natur|wald|wälder|meer|ozean|fluss|moor|garten|baum|bäume|pflanze|rewilding|nature|forest|ocean|sea|river|tree|trees|lake|biodivers\w*|conservation|environment|umwelt|park)\b/i],
   ["Gesundheit", /\b(gesundheit|medizin|krebs|therapie|patient|klinik|krankheit|impf|health|medical|cancer|therapy|disease|vaccine|hospital|mental health|treatment|wirkstoff|endometriose|alzheimer|diabetes)\b/i],
   ["Wissenschaft", /\b(forsch\w*|wissenschaft\w*|studie|technolog\w*|research\w*|scientist\w*|study|technology|space|weltraum|archäolog\w*|archaeolog\w*|invent\w*|erfind\w*)\b/i],
