@@ -1,6 +1,101 @@
 {
   "editions": [
     {
+      "date": "2026-10-14",
+      "items": [
+        {
+          "category": "Gesundheit",
+          "title": "Ungarn hebt Verbot von queeren Inhalten für Minderjährige auf, Zuckersteuer soll Getränke gesünder machen, Wien bekommt PAIS-Ambulanz",
+          "summary": "Gute Nachrichten für eine gute Wochenmitte.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/ungarn-hebt-verbot-von-queeren-inhalten-fuer-minderjaehrige-auf-zuckersteuer-soll-getraenke-gesuender-machen-wien-bekommt-pais-ambulanz/",
+          "lang": "de",
+          "published": "2026-10-14T10:47:27.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Ungarn hebt Einschränkungen für LGBTQ-Inhalte auf",
+          "summary": "Das ungarische Parlament hat am 13. Oktober mit 139 zu 51 Stimmen beschlossen, zentrale LGBTQ-feindliche Bestimmungen aus einem Gesetz von 2021 zu streichen.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/ungarn-hebt-einschraenkungen-fuer-lgbtq-inhalte-auf/",
+          "lang": "de",
+          "published": "2026-10-13T10:56:12.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Heidelberg schafft Wohnraum mit Tiny Houses, Hamburg prüft Seilbahn als öffentliches Verkehrsmittel, Barnim schützt Igel",
+          "summary": "Gute Nachrichten für einen besseren Tag.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/heidelberg-schafft-wohnraum-mit-tiny-houses-hamburg-prueft-seilbahn-als-oeffentliches-verkehrsmittel-barnim-schuetzt-igel/",
+          "lang": "de",
+          "published": "2026-10-13T09:20:52.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Inches Below the Forest Floor, Archeologists in Germany Unearthed a Roman Temple to the War God",
+          "summary": "Along a series of Roman fortifications cutting across Germany just north of Frankfurt, archeological excavations have revealed extensive floorplans belonging to a temple, a military camp, and craft center.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/inches-below-the-forest-floor-archeologists-in-germany-unearthed-a-roman-temple-to-the-war-god/",
+          "lang": "en",
+          "published": "2026-10-14T13:00:21.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "World’s Heaviest Pumpkin Sets Incredible New Record at 2,856 lbs.",
+          "summary": "This seismic squash was just certified as the largest ever grown by a man at a recent British competition. When volunteers at the Wargrave Nursery Giant Pumpkin Weigh-Off finally hoisted the specimen onto the scale, the reading was simply …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/worlds-heaviest-pumpkin-sets-incredible-new-record-at-2856-lbs/",
+          "lang": "en",
+          "published": "2026-10-14T11:00:23.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Teenagers Worldwide Are Tackling the Plastics Crisis",
+          "summary": "When students in Singapore looked around their school cafeteria, they could see a problem shared all over the world: Single-use Styrofoam was ubiquitous.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/teenagers-worldwide-are-tackling-the-plastics-crisis/",
+          "lang": "en",
+          "published": "2026-10-14T08:00:09.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Wildlife photographer of the year 2026, the winning images",
+          "summary": "This year’s competition has attracted a record-breaking number of entries",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/wildlife-photographer-of-the-year-2026-the-winning-images/",
+          "lang": "en",
+          "published": "2026-10-14T07:00:50.000Z"
+        },
+        {
+          "category": "Wissenschaft",
+          "title": "Scientists Shocked to Discover ‘D-rex’, a Giant Fungus from Chinese Forests Dating Back 65 Million Years",
+          "summary": "Deep in the forests of southwest China, scientists have discovered a ‘fungal giant’ that challenges our understanding of how large fungi can become.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
+          "lang": "en",
+          "published": "2026-10-13T18:30:53.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Italian Bio-methane Plant Comes Online, Providing Renewable Gas to Over 3,000 Homes",
+          "summary": "A European energy developer has switched on a major biomethane plant in southern Italy that will save some 9,000 tons of CO2 annually by producing a natural gas substitute with agricultural waste.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
+          "lang": "en",
+          "published": "2026-10-13T15:30:50.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "The ‘in awe’ artist painting a wilder Britain",
+          "summary": "Rebecca Howard’s paintings capture a wilder Britain in the making. Her exhibition celebrates nine projects restoring nature",
+          "source": "Positive News",
+          "url": "https://www.positive.news/environment/the-in-awe-artist-painting-a-wilder-britain/",
+          "lang": "en",
+          "published": "2026-10-13T09:25:37.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-13",
       "items": [
         {
@@ -105,5 +200,5 @@
       ]
     }
   ],
-  "updated": "2026-10-13"
+  "updated": "2026-10-14"
 }
