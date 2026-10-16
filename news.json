@@ -1,6 +1,101 @@
 {
   "editions": [
     {
+      "date": "2026-10-16",
+      "items": [
+        {
+          "category": "Natur",
+          "title": "New York plant Ende der Pferdekutschen im Central Park",
+          "summary": "Die traditionellen Pferdekutschen im New Yorker Central Park könnten bald Geschichte sein. Bürgermeister Zohran Mamdani und Stadtratspräsidentin Julie Menin setzen sich dafür ein, die umstrittenen Kutschfahrten zu beenden.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/new-york-verbietet-pferdekutschen-im-central-park/",
+          "lang": "de",
+          "published": "2026-10-16T08:20:14.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Traditionelle Outdoor-Marke Woolrich wird pelzfrei",
+          "summary": "Dies ist ein Gastartikel unseres Partners „This is Vegan“, der zuerst am 14. Oktober 2026 auf dessen Website veröffentlicht wurde. Woolrich steigt aus dem Pelz aus. Die Outdoor-Marke hat am 14. Oktober 2026 angekündigt, ab dem 1.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/outdoor-marke-woolrich-wird-pelzfrei/",
+          "lang": "de",
+          "published": "2026-10-16T08:15:05.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Brasilien schafft Sechs-Tage-Woche ab, Deutschland verbraucht nur noch halb so viel Kohle wie vor zehn Jahren, Paris baut Hunderte Kilometer neue Radwege",
+          "summary": "Sechs gute Nachrichten, die zeigen, dass auf der Welt auch jede Menge Gutes passiert.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/brasilien-schafft-sechs-tage-woche-ab-deutschland-verbraucht-nur-noch-halb-so-viel-kohle-wie-vor-zehn-jahren-paris-baut-hunderte-kilometer-neue-radwege/",
+          "lang": "de",
+          "published": "2026-10-15T10:10:40.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "What Dementia Taught Me About Living Through a Callous Time",
+          "summary": "Just as President Joe Biden was showing signs of cognitive decline so conspicuous that he was compelled to drop out of the presidential race in 2024, my own father’s dementia was worsening. He lived with us, and yet he lived in another reality entirely.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/what-dementia-taught-me-about-living-through-a-callous-time/",
+          "lang": "en",
+          "published": "2026-10-16T08:30:34.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Welcome to the Depolarization Project",
+          "summary": "If you’re anything like us, you’re not exactly in a congenial mood right now. With the U.S. midterm elections fewer than three weeks away, you might be feeling combat-ready. And who could blame you?",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/depolarization-project-introduction/",
+          "lang": "en",
+          "published": "2026-10-16T08:00:02.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "What went right this week: the good news that matters",
+          "summary": "Indonesia’s plummeting poverty rate, America’s largest wildlife bridge, and ‘a new era’ for the River Thames, plus more",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/",
+          "lang": "en",
+          "published": "2026-10-16T05:00:50.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "An Extinct Crocodilian’s Skull Was Found in the Rocks That Built the Sphinx, and it’s Also Missing its Nose",
+          "summary": "A new crocodilian species has been identified from fossils recovered from a rock layer harvested by ancient Egyptians to build the Sphinx And funnily enough, just like the iconic Egyptian landmark, this fossilized reptile is missing the tip of its snout.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
+          "lang": "en",
+          "published": "2026-10-15T17:30:16.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Tribe Just a Signature Away from Recovering 1,100 Ancestral Acres Along Undammed Elwha River",
+          "summary": "20 years after a Washington state dam was slated for demolition, 1,100 acres of ecosystem along the Lower Elwha River is recovering, having lain muddy and dormant under the dam’s engorged reservoir for more than a century.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/tribe-just-a-signature-away-from-recovering-1100-ancestral-acres-along-undammed-elwha-river/",
+          "lang": "en",
+          "published": "2026-10-15T15:30:41.000Z"
+        },
+        {
+          "category": "Wissenschaft",
+          "title": "ESA’s New Sentinel 3C Satellite Makes its Debut with Sumptuous Images of Italy and the Arctic",
+          "summary": "Two weeks after launching, the European Space Agency’s Copernicus Sentinel 3C satellite has returned its first images of our world in sumptuous color.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/esas-new-sentinel-3c-satellite-makes-its-debut-with-sumptuous-images-of-italy-and-the-arctic/",
+          "lang": "en",
+          "published": "2026-10-15T13:00:06.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "Woman Who Lost Her Sister Invents a Child’s Car Seat Sticker That Doubles as Hospital Bracelet",
+          "summary": "A sister turned her personal tragedy into a brilliant emergency safety product. Simple yet vital, the Roth ID Tag is an adhesive designed to stick forever on the fabric of a child’s car seat.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/woman-who-lost-her-sister-invents-a-childs-car-seat-sticker-that-doubles-as-hospital-bracelet/",
+          "lang": "en",
+          "published": "2026-10-15T11:00:37.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-15",
       "items": [
         {
@@ -268,5 +363,5 @@
       ]
     }
   ],
-  "updated": "2026-10-15"
+  "updated": "2026-10-16"
 }
