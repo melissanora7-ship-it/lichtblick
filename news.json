@@ -1,6 +1,65 @@
 {
   "editions": [
     {
+      "date": "2026-10-17",
+      "items": [
+        {
+          "category": "Tiere",
+          "title": "Weniger Tote durch Herzkrankheiten, Integration durch Hoffnungshäuser",
+          "summary": "Hier kommt der lösungsorientierte Nachrichten-Überblick, zusammengestellt von unserem Partner Squirrel News.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/weniger-tote-durch-herzkrankheiten/",
+          "lang": "de",
+          "published": "2026-10-16T14:07:37.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Kostenloses Brustkrebs-Screening für Frauen ab 45 Jahren, neues Zentrum in Berlin erforscht Wege zur HIV-Heilung, Natur hilft gegen Einsamkeit",
+          "summary": "Fünf gute Nachrichten aus den Bereichen Medizin und Gesundheit.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/kostenloses-brustkrebs-screening-fuer-frauen-ab-45-jahren-neues-zentrum-in-berlin-erforscht-wege-zur-hiv-heilung-natur-hilft-gegen-einsamkeit/",
+          "lang": "de",
+          "published": "2026-10-16T10:27:22.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "North America’s Largest Wildlife Overpass Is Working: Animal Collisions on I-25 Down 91%",
+          "summary": "In March, GNN reported that North America’s largest wildlife overpass had opened in December over Interstate 25 near Larkspur, in Colorado.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/north-americas-largest-wildlife-overpass-is-working-animal-collisions-on-i-25-down-91/",
+          "lang": "en",
+          "published": "2026-10-16T18:30:38.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Drape Some of This ‘Plant Armor’ Fabric Over a Strawberry Patch to Triple Yields with Less Pesticides",
+          "summary": "A new textile used to cover strawberry plants more than tripled fruit yields in field tests, without negatively impacting plant health. Importantly, the technology could also significantly reduce water and pesticide usage in strawberry production.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/drape-some-of-this-plant-armor-fabric-over-a-strawberry-patch-to-triple-yields-with-less-pesticides/",
+          "lang": "en",
+          "published": "2026-10-16T15:30:40.000Z"
+        },
+        {
+          "category": "Wissenschaft",
+          "title": "Teen’s Disaster Messaging App Can ‘Hop’ Across Bluetooth When Cellular Networks Collapse",
+          "summary": "It’s not just homes that collapse during an earthquake, but cell towers and the networks they maintain. On February 6th, 2023, earthquakes devastated southern Türkiye and northern Syria.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/teens-disaster-messaging-app-can-hop-across-bluetooth-when-cellular-networks-collapse/",
+          "lang": "en",
+          "published": "2026-10-16T13:00:35.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Largest Private Conservation Project in the US Hits Major Milestone as Free-Roaming Bison Pass 1,000",
+          "summary": "As autumn descends upon the Great Plains of North America, the largest private land conservation project in the country is ringing in an inspirational milestone.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
+          "lang": "en",
+          "published": "2026-10-16T11:00:30.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-16",
       "items": [
         {
@@ -363,5 +422,5 @@
       ]
     }
   ],
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
 }
