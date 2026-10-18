@@ -1,6 +1,56 @@
 {
   "editions": [
     {
+      "date": "2026-10-18",
+      "items": [
+        {
+          "category": "Gesundheit",
+          "title": "Gut für Körper und Geist: 8 gute Nachrichten",
+          "summary": "Ob gemeinsames Essen, Lesen oder Sport: Unsere heutige Ausgabe zeigt wissenschaftlich belegt, warum die schönen Dinge des Lebens die beste Medizin für uns sind.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/gut-fuer-koerper-und-geist-8-gute-nachrichten/",
+          "lang": "de",
+          "published": "2026-10-17T09:02:47.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "99-yo Woman Snags ‘World’s Oldest Wing-Walker’ Title – 3 Months After Another Gran Did It (LOOK)",
+          "summary": "A 99-year-old has become the world’s oldest wing-walker—just three months after her niece saw another elderly woman do it, and the staff at her assisted-living facility urged her to try.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/99-yo-woman-snags-worlds-oldest-wing-walker-title/",
+          "lang": "en",
+          "published": "2026-10-17T19:56:32.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Coral Bleaching Reversed at Record Speed Using New Stanford Method: ‘Not a Lost Cause, at All’",
+          "summary": "Coral bleaching has been reversed at record speed using a new method developed at Stanford University. Corals that were ghostly white returned to full health in their lab in a mere seven weeks—the fastest documented recovery to date.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/coral-bleaching-reversed-at-record-speed-using-new-stanford-method/",
+          "lang": "en",
+          "published": "2026-10-17T17:20:40.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Massive 70lb Dog the Size of Baby Hippo Sheds Pounds and Gets New Home",
+          "summary": "A massive shelter dog that weighed the same as a baby hippo has shed the pounds—and found a new home. The huge bulldog named Peggy Sue swelled to 70 pounds (32.5kg) before she was taken to the RSPCA’s West Hatch Animal Centre in England.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/",
+          "lang": "en",
+          "published": "2026-10-17T13:51:35.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+          "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-17-2026/",
+          "lang": "en",
+          "published": "2026-10-17T10:00:17.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-17",
       "items": [
         {
@@ -422,5 +472,5 @@
       ]
     }
   ],
-  "updated": "2026-10-17"
+  "updated": "2026-10-18"
 }
