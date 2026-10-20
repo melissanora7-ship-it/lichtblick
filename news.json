@@ -1,6 +1,92 @@
 {
   "editions": [
     {
+      "date": "2026-10-20",
+      "items": [
+        {
+          "category": "Wissenschaft",
+          "title": "Neuer Therapieansatz gegen Lungeninfektionen",
+          "summary": "Forschende arbeiten an einem neuen Therapieansatz gegen gefährliche Lungeninfektionen.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/neuer-therapieansatz-gegen-lungeninfektionen/",
+          "lang": "de",
+          "published": "2026-10-20T07:11:00.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "Weltweite Kindersterblichkeit sinkt weiter, Amazonas-Abholzung auf Allzeit-Tief",
+          "summary": "Hier kommt der lösungsorientierte Nachrichten-Überblick, zusammengestellt von unserem Partner Squirrel News.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/weltweite-kindersterblichkeit-sinkt-weiter/",
+          "lang": "de",
+          "published": "2026-10-19T14:29:33.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "New York City will Pferdekutschen bis 2028 abschaffen, die Spitzenreiter beim ÖPNV, historischer Tiefstand bei Amazonas-Abholzung",
+          "summary": "Sechs gute Nachrichten für einen guten Start in die Woche.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/new-york-city-will-pferdekutschen-bis-2028-abschaffen-die-spitzenreiter-beim-oepnv-historischer-tiefstand-bei-amazonas-abholzung/",
+          "lang": "de",
+          "published": "2026-10-19T10:49:50.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "There Are Ways to Reduce Campus Sexual Assaults. Will More Colleges Use Them?",
+          "summary": "This story was originally published by The Understory. When I was a student at Cornell University, I read the book “Fraternity Gang Rape” by Peggy Reeves Sanday for one of my classes. That book was written in 1990, which was a long time ago.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/there-are-ways-to-reduce-campus-sexual-assaults-will-more-colleges-use-them/",
+          "lang": "en",
+          "published": "2026-10-20T08:00:27.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "The new certification scheme helping solar farms become havens for wildlife",
+          "summary": "A new solar certification scheme encourages developers to create better habitats for wildlife alongside clean electricity generation",
+          "source": "Positive News",
+          "url": "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/",
+          "lang": "en",
+          "published": "2026-10-20T07:00:20.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Mozambique Protects the ‘Butterfly Forest’ of Mount Mabu, Home to 200 Species",
+          "summary": "A government decree published on August 24th set aside 23,000 acres as the Mount Mabu Community Conservation Area in Mozambique.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/mozambique-protects-the-butterfly-forest-of-mount-mabu-home-to-200-species/",
+          "lang": "en",
+          "published": "2026-10-19T18:30:41.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Unprecedented Collab Between China and The Met Uncovers Secrets of Huge Chinese Mural in NYC",
+          "summary": "A major arts and heritage conservation project in China has born unexpected fruit thousands of miles away in New York City.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
+          "lang": "en",
+          "published": "2026-10-19T15:30:49.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Brazil Ends Long Tradition of 6-Day Workweek via Constitutional Amendment",
+          "summary": "With Brazil’s senate voting 75 to 1 in favor, one wonders what took them so long? The nation was one of the richest in the world that still had a customary 6-day workweek, with fulltime employment considered 44 hours, rather than the 40 we know of in the US.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/brazil-ends-long-tradition-of-6-day-workweek-via-constitutional-amendment/",
+          "lang": "en",
+          "published": "2026-10-19T13:00:17.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Simple ‘Soil Steaming’ Found as Effective Replacement for Chemicals in Organic Strawberry Farming",
+          "summary": "A mere puff of steam could be the ticket to much larger and reliable strawberry yields in California, the LA Times reported.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/simple-soil-steaming-found-as-effective-replacement-for-chemicals-in-organic-strawberry-farming/",
+          "lang": "en",
+          "published": "2026-10-19T11:00:50.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "items": [
         {
@@ -531,5 +617,5 @@
       ]
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-10-20"
 }
