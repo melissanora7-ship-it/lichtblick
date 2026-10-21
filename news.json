@@ -1,6 +1,56 @@
 {
   "editions": [
     {
+      "date": "2026-10-21",
+      "items": [
+        {
+          "category": "Gesundheit",
+          "title": "Europride kommt 2029 nach Dresden, Solarzellen auf Lkw-Dächern sparen Sprit und Strom, neue Technik macht Gedanken hörbar",
+          "summary": "Gute Nachrichten für einen guten Tag!",
+          "source": "Good News",
+          "url": "https://goodnews.eu/europride-kommt-2029-nach-dresden-solarzellen-auf-lkw-daechern-sparen-sprit-und-strom-neue-technik-macht-gedanken-hoerbar/",
+          "lang": "de",
+          "published": "2026-10-20T10:43:00.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Student Plays Truly Epic Birthday Prank on High School Principal Who Changed His Life (WATCH)",
+          "summary": "There’s viral—and then there’s the video that recently dropped on social media platforms of Georgia high schoolers playing the prank of a lifetime on their principal.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/student-plays-truly-epic-birthday-prank-on-high-school-principal-who-changed-his-life-watch/",
+          "lang": "en",
+          "published": "2026-10-20T18:30:00.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Isle of Jersey Expands Marine Protections to Cover 21% of Territorial Waters",
+          "summary": "The self-governing British Isle of Jersey announced in late August it would increase its percentage of protected waters by 15%. Now, 21.7% of Jersey’s seas will be protected from trawling and other damaging fishing practices.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/isle-of-jersey-expands-marine-protections-to-cover-21-of-territorial-waters/",
+          "lang": "en",
+          "published": "2026-10-20T15:30:53.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Texas Man Finds More Than $128,000 on Top of a Bank’s ATM–and Returns Every Dollar",
+          "summary": "A man and a woman stopping at a Texas ATM noticed a bag lying atop the machine. Every inch of the bag was stuffed with money, yet the anonymous Samaritan immediately called the Lewisville Police Department.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/texas-man-finds-more-than-128000-on-top-of-a-banks-atm-and-returns-every-dollar/",
+          "lang": "en",
+          "published": "2026-10-20T13:00:43.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Man Proposes to His Girlfriend After They Were Struck by Lightning–She Restarted His Heart Twice",
+          "summary": "Nick Broderick describes the moment he decided to marry his girlfriend Eva as electric: it was as if he were struck by lightning. Love language aside, that’s actually exactly what happened.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/",
+          "lang": "en",
+          "published": "2026-10-20T11:00:16.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "items": [
         {
@@ -617,5 +667,5 @@
       ]
     }
   ],
-  "updated": "2026-10-20"
+  "updated": "2026-10-21"
 }
