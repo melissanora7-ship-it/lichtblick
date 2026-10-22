@@ -1,6 +1,110 @@
 {
   "editions": [
     {
+      "date": "2026-10-22",
+      "items": [
+        {
+          "category": "Gesellschaft",
+          "title": "Londoner Nachtlauf macht auf Unsicherheit von Frauen aufmerksam",
+          "summary": "Ein ungewöhnlicher Nachtlauf der Sportmarke Nike in London hat eine Debatte darüber angestoßen, wie sicher sich Frauen nach Einbruch der Dunkelheit fühlen.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/londoner-nachtlauf-macht-auf-unsicherheit-von-frauen-aufmerksam/",
+          "lang": "de",
+          "published": "2026-10-22T09:09:32.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "Wie das Verändern von Genen zur Lösung einer Mutationskrankheit führen kann",
+          "summary": "Der 19-jährige Mohammad litt seit Beginn seines Lebens an der Krankheit Beta-Thalassämie. Diese konnte durch eine kleine DNA-Veränderung nun geheilt werden, sodass Mohammad nie mehr von Bluttransfusionen abhängig sein muss.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/veraendern-von-genen-mutationskrankheit/",
+          "lang": "de",
+          "published": "2026-10-21T14:56:30.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Grundeinkommen schützt Regenwald, E-Lastwagen mit Solarzellen",
+          "summary": "Hier kommt der lösungsorientierte Nachrichten-Überblick, zusammengestellt von unserem Partner Squirrel News.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/grundeinkommen-schuetzt-regenwald/",
+          "lang": "de",
+          "published": "2026-10-21T13:47:05.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Weniger Todesfälle durch Herz-Kreislauf-Erkrankungen, Polens Parlament will reproduktive Rechte ausbauen, EU stärkt Rechte von Reisenden",
+          "summary": "Sechs gute Nachrichten für die Wochenmitte.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/weniger-todesfaelle-durch-herz-kreislauf-erkrankungen-polens-parlament-will-reproduktive-rechte-ausbauen-eu-staerkt-rechte-von-reisenden/",
+          "lang": "de",
+          "published": "2026-10-21T11:01:11.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "The farmer growing a future under Ghana’s trees",
+          "summary": "Cocoa farmer Susana Afrifa Ankrah is helping show how protecting forests can sustain livelihoods and build resilience to a changing climate",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/",
+          "lang": "en",
+          "published": "2026-10-22T08:44:40.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "The Door-to-Door Technique That Actually Changes Minds",
+          "summary": "One weekend, a canvasser — let’s call her Cindy — was out door-knocking and found a gentleman at home. After establishing that he’d heard of gender transition surgeries for minors, a topic that’s become a major focal point across the U.S.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/the-door-to-door-technique-defying-americas-political-division/",
+          "lang": "en",
+          "published": "2026-10-22T08:00:35.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Strangers Help 86-Year-Old Who’s Been Building a 62-foot Boat in his Yard Since 1987 (WATCH)",
+          "summary": "An 86-year-old man named Dale has spent nearly four decades welding a 62-foot steel boat in his front yard. Now, a wave of kindness is bringing his long-held dream within reach—just when it seemed to be beyond his reach.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/total-strangers-help-86-year-old-man-make-40-year-dream-reality/",
+          "lang": "en",
+          "published": "2026-10-21T18:30:34.000Z"
+        },
+        {
+          "category": "Wissenschaft",
+          "title": "Japan Successfully Launches Mission to Bring Home the First-Ever Martian Moon Samples",
+          "summary": "In a stellar step forward for planetary science, Japan successfully launched a spacecraft on October 19th, headed for the mysterious moons of Mars.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/japan-launches-first-mission-mars-moon-samples/",
+          "lang": "en",
+          "published": "2026-10-21T16:00:45.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Scientists Discover a Simple, Low-Energy Way to Recycle Acrylic Glass into Brand-New Material",
+          "summary": "Researchers at ETH Zurich have found a practical new method that breaks down acrylic glass—known by the brand name Plexiglas—almost entirely into its original building blocks, making high-quality recycling realistic and affordable for the first time.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
+          "lang": "en",
+          "published": "2026-10-21T13:00:45.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "10-Year-Old Dog Found After a Month Lost in Yellowstone",
+          "summary": "A 10-year-old Jack Russell terrier named Luna was happily reunited with her owners after surviving more than a month on her own in Yellowstone National Park.⁠ Luna escaped on Sept. 10 from a locked cabin in the Canyon Village area.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/10-year-old-dog-found-month-lost-in-yellowstone/",
+          "lang": "en",
+          "published": "2026-10-21T11:00:41.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "‘Writing is a way of dealing with things’",
+          "summary": "Scottish author Ian Rankin talks about making sense of difficult experiences through fiction, and giving away a share of his success",
+          "source": "Positive News",
+          "url": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
+          "lang": "en",
+          "published": "2026-10-21T09:20:24.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "items": [
         {
@@ -667,5 +771,5 @@
       ]
     }
   ],
-  "updated": "2026-10-21"
+  "updated": "2026-10-22"
 }
