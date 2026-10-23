@@ -1,6 +1,74 @@
 {
   "editions": [
     {
+      "date": "2026-10-23",
+      "items": [
+        {
+          "category": "Wissenschaft",
+          "title": "Großes Forschungsprojekt zu Blutstammzellen startet, E-Scooter in Hamburg sollen langsamer fahren, Gericht stärkt Privatsphäre bei Google Maps",
+          "summary": "Gute Nachrichten für alle!",
+          "source": "Good News",
+          "url": "https://goodnews.eu/grosses-forschungsprojekt-zu-blutstammzellen-startet-e-scooter-in-hamburg-sollen-langsamer-fahren-gericht-staerkt-privatsphaere-bei-google-maps/",
+          "lang": "de",
+          "published": "2026-10-22T10:49:22.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "How ‘Artivism’ Is Driving the Resistance in Paris",
+          "summary": "Suddenly Darth Vader climbs up onto a chair in front of the Hôtel de Ville in Paris. Clad in all black, he swings his sword like a conductor’s baton while 200 musicians and volunteers, most in their early twenties, get ready.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/paris-student-protests-orchestra-artistic-expression/",
+          "lang": "en",
+          "published": "2026-10-23T08:00:26.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "What went right this week: the good news that matters",
+          "summary": "Rewilding gave low-lying islands hope, a basic income trial showed promise, and a Bangladeshi factory won an award, plus more",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
+          "lang": "en",
+          "published": "2026-10-23T05:00:52.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "A Towering Figure of Tolerance From 2,500 Years Ago Has Found a New Home in Atlanta",
+          "summary": "This week, crews installed a 29-foot bronze statue of Cyrus the Great in Atlanta, an ancient Persian king might seem like an unlikely addition to the city To the people who spent years bringing him here, however, there’s no more fitting place in America for a …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/a-towering-figure-of-tolerance-from-2500-years-ago-has-found-a-new-home-in-atlanta/",
+          "lang": "en",
+          "published": "2026-10-22T23:28:14.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "‘World’s Largest Deforestation Project’ Halted Early, Saving Potentially 4 Million Acres",
+          "summary": "Indonesian authorities have paused, and perhaps ended, the “world’s largest deforestation project.” Having achieved self-sufficiency in rice cultivation some 3 years ahead of a government schedule, around 4 million acres of rainforest, swamps, and peatlands …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/indonesia-calls-an-early-halt-to-worlds-largest-deforestation-project-saving-potentially-4-million-acres/",
+          "lang": "en",
+          "published": "2026-10-22T18:30:59.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Major Supermarket Begins Wide-Scale Tests to Bring Heritage Apple Varieties to Market",
+          "summary": "See these apples here? They rank among the most consumed worldwide—and one of Europe’s largest supermarkets would like to see that changed.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/major-supermarket-begins-wide-scale-tests-to-bring-heritage-apple-varieties-to-market/",
+          "lang": "en",
+          "published": "2026-10-22T15:30:32.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Coconut Oil Could Make Great Sustainable Jet Fuel, Pioneering Experiments Demonstrate",
+          "summary": "Great for frying, perfect for your skin, and irreplicable in a ketogenic diet, coconut oil is a wonderful product. In the future it may even power our passenger aircraft.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/coconut-oil-could-make-great-sustainable-jet-fuel-pioneering-experiments-demonstrate/",
+          "lang": "en",
+          "published": "2026-10-22T13:00:14.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-22",
       "items": [
         {
@@ -771,5 +839,5 @@
       ]
     }
   ],
-  "updated": "2026-10-22"
+  "updated": "2026-10-23"
 }
