@@ -1,6 +1,92 @@
 {
   "editions": [
     {
+      "date": "2026-10-24",
+      "items": [
+        {
+          "category": "Natur",
+          "title": "Ein Schmetterling kehrt zurück",
+          "summary": "Auf einem der bekanntesten Rewilding-Güter Großbritanniens soll ein Schmetterling zurückkehren, der dort seit rund 100 Jahren als ausgestorben galt.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/ein-schmetterling-kehrt-zurueck/",
+          "lang": "de",
+          "published": "2026-10-24T08:15:00.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Solarkits als Katastrophenhelfer, Soldatenfliege frisst Supermarkt-Abfälle",
+          "summary": "Hier kommt der lösungsorientierte Nachrichten-Überblick, zusammengestellt von unserem Partner Squirrel News.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/solarkits-als-katastrophenhelfer/",
+          "lang": "de",
+          "published": "2026-10-23T14:30:25.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Dänemark beendet die Nerzzucht: Letzte Farmen schließen bis 2029",
+          "summary": "Dänemark verzichtet auf eine Ausnahme vom EU-Verbot. Die letzten sieben Nerzfarmen des einstigen Pelz-Weltmarktführers müssen bis August 2029 schließen. Dänemark war einmal das Land, aus dem mehr Nerzpelze kamen als aus jedem anderen.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/daenemark-beendet-die-nerzzucht-letzte-farmen-schliessen-bis-2029/",
+          "lang": "de",
+          "published": "2026-10-23T13:10:46.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Sacharow-Preis für geistige Freiheit 2026 geht an den Internationalen Strafgerichtshof",
+          "summary": "Der Internationale Strafgerichtshof (IStGH) erhält den Sacharow-Preis 2026 für geistige Freiheit. Mit der Auszeichnung würdigt das Europäische Parlament den Einsatz des Gerichts für internationale Gerechtigkeit und die strafrechtliche Verfolgung schwerster …",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/sacharow-preis-2026-fuer-den-internationalen-strafgerichtshof/",
+          "lang": "de",
+          "published": "2026-10-23T11:38:08.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Kopenhagen will Windelmüll recyceln, Prozessbegleitung für Gewaltopfer wird ausgeweitet, Tee senkt das Schlaganfallrisiko",
+          "summary": "Sechs gute Nachrichten für einen guten Start ins Wochenende.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/kopenhagen-will-windelmuell-recyceln-prozessbegleitung-fuer-gewaltopfer-wird-ausgeweitet-tee-senkt-das-schlaganfallrisiko/",
+          "lang": "de",
+          "published": "2026-10-23T10:50:15.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Rescuers Ensure Orphaned Baby Walrus Gets a Second Chance (LOOK)",
+          "summary": "Found alone and oppressed by scavengers on a remote northern Alaska beach, an orphaned Pacific walrus calf now has a new home at SeaWorld Orlando.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/rescuers-ensure-orphaned-baby-walrus-gets-a-second-chance-look/",
+          "lang": "en",
+          "published": "2026-10-23T18:30:31.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "One Teacher’s Idea for Daily Positivity Practice Sweeps Through His Elementary School",
+          "summary": "A Kansas Elementary School teacher is earning the praise of his community for sending children home full of positive affirmations.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/one-teachers-idea-for-daily-positivity-practice-sweeps-through-his-elementary-school/",
+          "lang": "en",
+          "published": "2026-10-23T15:30:59.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "3 Italian ‘Hobbits’ Searched for Irishman’s ‘Precious’ Wedding Ring for Days Before Bringing it to His Home",
+          "summary": "A man’s misfortunate on vacation turned into a story fit for a fantasy novel, as complete strangers came to his rescue inspired by The Lord of the Rings.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/3-italian-hobbits-searched-for-irishmans-precious-wedding-ring-for-days-before-bringing-it-to-his-home/",
+          "lang": "en",
+          "published": "2026-10-23T13:00:12.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Vines Produce Bigger, Healthier Wine Grapes When Grown Under Solar Panels",
+          "summary": "Solar panels grown above grapevines substantially increased the development and fruit production of the crop—all while generating clean energy.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/",
+          "lang": "en",
+          "published": "2026-10-23T11:00:15.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-23",
       "items": [
         {
@@ -839,5 +925,5 @@
       ]
     }
   ],
-  "updated": "2026-10-23"
+  "updated": "2026-10-24"
 }
