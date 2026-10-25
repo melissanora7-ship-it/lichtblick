@@ -1,6 +1,65 @@
 {
   "editions": [
     {
+      "date": "2026-10-25",
+      "items": [
+        {
+          "category": "Gesundheit",
+          "title": "Schmerz lass nach: 6 neue Ideen aus der Schmerztherapie",
+          "summary": "Neue Hoffnung gegen Schmerzen: Von der Heilkraft deiner Lieblingsmusik bis hin zu hochdosierter Chili-Schärfe – wir stellen euch heute die erstaunlichsten neuen Therapieansätze vor!",
+          "source": "Good News",
+          "url": "https://goodnews.eu/schmerz-lass-nach-6-neue-ideen-aus-der-schmerztherapie/",
+          "lang": "de",
+          "published": "2026-10-24T09:28:01.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Robuster Pkw-Anhänger – aus welchen Materialien sollte er bestehen?",
+          "summary": "Zwei Anhänger können auf den ersten Blick fast gleich aussehen. Ob sie auch auf Dauer ähnlich gut mit regelmäßigen Transporten, schlechtem Wetter und häufigem Be- und Entladen zurechtkommen, hängt stark von ihrer Konstruktion ab.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/robuster-pkw-anhanger-aus-welchen-materialien-sollte-er-bestehen/",
+          "lang": "de",
+          "published": "2026-10-23T11:36:00.000Z"
+        },
+        {
+          "category": "Wissenschaft",
+          "title": "Star Clusters in Van Gogh’s Starry Night Matches Taurus Sky From July 1889, Shows Study",
+          "summary": "The sky painted by Vincent Van Gogh in The Starry Night matches the sky in July of 1889, the year he immortalized the French horizon.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/stars-in-van-gogh-starry-night-matches-sky-in-july-1889/",
+          "lang": "en",
+          "published": "2026-10-24T17:19:53.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Minnesota Youth Jumps Onto Runaway School Bus and Saves 18 Kids After Driver has Seizure",
+          "summary": "Luckily, this 27-year-old was taking a break at work on a slow Monday in Minnesota—because his actions, jumping on a moving school bus, saved 18 students and their bus driver.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children/",
+          "lang": "en",
+          "published": "2026-10-24T14:14:30.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "New U.S. National Park Preserves ‘Land of Standing-Up Rocks’ and its Apache Culture in Arizona",
+          "summary": "The U.S. has designated a new National Park in Arizona, preserving the distinctive landscape known as Chiricahua, the land of ‘Standing-Up Rocks’.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/new-us-national-park-preserves-land-of-standing-up-rocks/",
+          "lang": "en",
+          "published": "2026-10-24T13:00:11.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+          "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-24-2026/",
+          "lang": "en",
+          "published": "2026-10-24T10:00:24.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "items": [
         {
@@ -925,5 +984,5 @@
       ]
     }
   ],
-  "updated": "2026-10-24"
+  "updated": "2026-10-25"
 }
