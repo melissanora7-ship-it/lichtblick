@@ -1,6 +1,65 @@
 {
   "editions": [
     {
+      "date": "2026-10-26",
+      "items": [
+        {
+          "category": "Gesellschaft",
+          "title": "Brasilien: Lulas Wiederwahl stärkt Perspektiven für Demokratie und Klimaschutz",
+          "summary": "Luiz Inácio Lula da Silva bleibt Präsident Brasiliens. Bei der Stichwahl am Sonntag setzte sich der 80-Jährige mit rund 51,8 Prozent der Stimmen gegen Flávio Bolsonaro durch.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/brasilien-lulas-wiederwahl-staerkt-perspektiven-fuer-demokratie-und-klimaschutz/",
+          "lang": "de",
+          "published": "2026-10-26T09:28:30.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Serbien: Studierendenbewegung beendet zwölfjährige Regierungszeit",
+          "summary": "Was im November 2024 als Protest gegen Korruption begann, hat in Serbien zu einem historischen politischen Umbruch geführt.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/serbien-studierendenbewegung-beendet-zwoelfjaehrige-regierungszeit/",
+          "lang": "de",
+          "published": "2026-10-26T09:10:00.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "LIVE Webcam Brings You Inside Cheetah Den With 5 Tiny Cubs Tended By Mom (WATCH and LISTEN)",
+          "summary": "On October 5, a cheetah named Zura gave birth to five adorable cubs at the Smithsonian’s Conservation Institute in Virginia—and you can spy on them night and day.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
+          "lang": "en",
+          "published": "2026-10-25T21:51:15.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "53 Orangutans Rescued from Fires in Borneo, With Many Rewilded to Forest Preserves Across the Island",
+          "summary": "Forest and peatland wildfires continue to burn across the island of Borneo, endangering the air quality for both humans and wildlife—and torching the food supply for critically endangered orangutans.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
+          "lang": "en",
+          "published": "2026-10-25T18:06:02.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Flood Worries? Tape Can Block 99% of Water Compared to Expensive Sandbags That Break Your Back",
+          "summary": "Homes at risk of flooding could be better protected in an emergency using widely available and affordable tape rather than traditional sandbags, shows new research from the UK’s University of Hull.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/tape-can-block-99-of-water-compared-to-expensive-sandbags/",
+          "lang": "en",
+          "published": "2026-10-25T16:05:34.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "A Chance Meeting in a Chinese Restaurant Saved a Man’s Life – As Everything Happens for a Reason",
+          "summary": "Everything happens for a reason. Every small choice can create lasting change—and even save a life. That’s what David Couture was reminiscing about, recently, when he shared with GNN a miraculous story from more than a decade ago.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/chance-meeting-in-chinese-restaurant-saved-a-life/",
+          "lang": "en",
+          "published": "2026-10-25T13:52:48.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "items": [
         {
@@ -984,5 +1043,5 @@
       ]
     }
   ],
-  "updated": "2026-10-25"
+  "updated": "2026-10-26"
 }
