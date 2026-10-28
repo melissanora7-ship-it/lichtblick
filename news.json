@@ -1,6 +1,74 @@
 {
   "editions": [
     {
+      "date": "2026-10-28",
+      "items": [
+        {
+          "category": "Gesellschaft",
+          "title": "Auszeichnungen in Wien: Wie Menschen den interkulturellen Dialog stärken",
+          "summary": "Sieben internationale Projekte bei den Intercultural Achievement Awards in Wien zeigen, wie Menschen weltweit den interkulturellen Austausch stärken und Brücken zwischen Kulturen bauen.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/interkulturellen-dialog-staerken/",
+          "lang": "de",
+          "published": "2026-10-27T10:21:29.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Positive News launches new video podcast exploring what’s going right in the world",
+          "summary": "The What Went Right series is expanding to YouTube and other podcast platforms, bringing its weekly roundup of progress to new audiences",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
+          "lang": "en",
+          "published": "2026-10-28T09:43:33.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "What We’re Reading: A Quiz That Reveals Americans’ Surprising Common Ground",
+          "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/what-were-reading-americans-want-the-same-things/",
+          "lang": "en",
+          "published": "2026-10-28T08:00:42.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "FDA-Approval for Drill-Free Cavity Care May Be Imminent After Great Phase 3 Treatment Trial",
+          "summary": "FDA approval may be imminent for a key innovation in dentistry that could spare thousands of children from painful pulling, drilling, and infections with a simple fluid coating.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/fda-approval-for-drill-free-cavity-care-may-be-imminent-after-great-phase-3-treatment-trial/",
+          "lang": "en",
+          "published": "2026-10-27T16:30:24.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "High School Baseball Team Has All the Vibes of Success But Never Won a Game: Kids Don’t Mind",
+          "summary": "One might say it’s a very Canadian story: that the Dartmouth High School Spartans haven’t won a game of baseball in 6 years, yet still feel like winners.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/",
+          "lang": "en",
+          "published": "2026-10-27T15:30:59.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "NGO Celebrates 70 Million Amazon Acres Conserved After Protecting Are Called a ‘Link of Life’",
+          "summary": "American NGO the Rainforest Trust recently aided in the creation of a 715,000-acre wildlife reserve in Bolivia along the Iténez River, considered by scientists to be a “link of life.” This 780-mile-long watery artery, the majority of which forms the northeast …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/",
+          "lang": "en",
+          "published": "2026-10-27T13:00:06.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Family That’s Fostered 500 Children Saved from Housefire Thanks to Stranger’s Wrong Turn",
+          "summary": "A complete stranger named Casey knew he was in the wrong place, yet at the right time—when he saw the smoke from a burning house in the distance.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/",
+          "lang": "en",
+          "published": "2026-10-27T11:30:43.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "items": [
         {
@@ -1138,5 +1206,5 @@
       ]
     }
   ],
-  "updated": "2026-10-27"
+  "updated": "2026-10-28"
 }
