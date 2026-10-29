@@ -1,6 +1,83 @@
 {
   "editions": [
     {
+      "date": "2026-10-29",
+      "items": [
+        {
+          "category": "Tiere",
+          "title": "Australien schafft ersten Koala-Nationalpark, immer mehr Eltern lesen vor",
+          "summary": "Australien schafft ersten Koala-Nationalpark",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/australien-schafft-ersten-koala-nationalpark/",
+          "lang": "de",
+          "published": "2026-10-28T15:26:19.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Eltern lesen ihren Kindern öfter vor, in Neukölln gibt es frisches Obst und Gemüse auf Rezept, Supermarkt verzichtet auf Silvester-Feuerwerk",
+          "summary": "Sechs gute Nachrichten, die deinen Tag besser machen.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/eltern-lesen-ihren-kindern-oefter-vor-in-neukoelln-gibt-es-frisches-obst-und-gemuese-auf-rezept-supermarkt-verzichtet-auf-silvester-feuerwerk/",
+          "lang": "de",
+          "published": "2026-10-28T12:41:02.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "The Student Exchange Program That Never Leaves the U.S.",
+          "summary": "In 1991, Saskia Sassen published The Global City in which she asserted that London had more in common with New York and Tokyo than it did with other parts of the U.K.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/america-student-exchange-program-empathy/",
+          "lang": "en",
+          "published": "2026-10-29T08:00:15.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Smartphones, ancient tracking skills and a future for desert lions",
+          "summary": "In Namibia, rangers are using real-time data and traditional knowledge to support farmers and safeguard a recovering lion population",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
+          "lang": "en",
+          "published": "2026-10-29T07:00:10.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Nature-Inspired Tech Prevents Microplastics Entering Atlantic Ocean Through Wastewater",
+          "summary": "Princeton alumni have designed what’s called a first-in-the-world device to filter microplastics out of wastewater at scale, and it’s already been deployed in Atlantic City.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/",
+          "lang": "en",
+          "published": "2026-10-28T18:30:55.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Bizarre Rescue Sees Divers Save Kangaroo That Found Itself Over a Mile from Dry Land",
+          "summary": "In a story too ‘Australiana’ to believe, a scuba diver and his crew rescued a kangaroo over one and a half miles out to sea.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
+          "lang": "en",
+          "published": "2026-10-28T15:30:15.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Etsy Cracks Down on AI-Generated Content to Protect Buyers from Barrage of Slop",
+          "summary": "For the world’s largest online e-commerce market for handicrafts, the impact of AI generated media was always going to loom large.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/etsy-cracks-down-on-ai-generated-content-to-protect-buyers-from-barrage-of-slop/",
+          "lang": "en",
+          "published": "2026-10-28T13:00:04.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Stranger Anonymously Pays $420 Lunch Tab for 27 Disabled Residents and Caregivers",
+          "summary": "Members of a South Korean disabled community group were shocked to hear that a total stranger had paid for their barbecue lunch worth $420.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/",
+          "lang": "en",
+          "published": "2026-10-28T11:30:33.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "items": [
         {
@@ -1206,5 +1283,5 @@
       ]
     }
   ],
-  "updated": "2026-10-28"
+  "updated": "2026-10-29"
 }
