@@ -1,6 +1,92 @@
 {
   "editions": [
     {
+      "date": "2026-10-30",
+      "items": [
+        {
+          "category": "Tiere",
+          "title": "Streuner-Lauf 2026: Ein virtueller Spendenlauf für Tiere ohne Zuhause",
+          "summary": "Im November kann jede:r von uns durch Bewegung die Sichtbarkeit eines der größten Tierschutzprobleme Deutschlands verstärken – während des Laufens oder bei einer Gassirunde. Vom 1. bis zum 30. November 2026 wird Bewegung zum Tierschutz.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/streuner-lauf-2026-spendenlauf-fuer-tiere/",
+          "lang": "de",
+          "published": "2026-10-29T17:50:00.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Elterngeld soll steigen, Fortschritte bei Wiederaufbau geschädigter Ökosysteme, Verleihung des Verfassungspreises in Hessen",
+          "summary": "Sechs Nachrichten, die zeigen, dass auf der Welt auch jede Menge Gutes passiert.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/elterngeld-soll-steigen-fortschritte-bei-wiederaufbau-geschaedigter-oekosysteme-verleihung-des-verfassungspreises-in-hessen/",
+          "lang": "de",
+          "published": "2026-10-29T11:58:35.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Vom Dorfgarten bis zur Fahrradwerkstatt: Das sind die 20 Gewinnerideen von „Klimaschutz nebenan“",
+          "summary": "Schüler:innen in München, die alte Computer vor dem Elektroschrott retten, eine Dorfgemeinschaft in Briesen, die ihr Vereinshaus zum nachhaltigen Treffpunkt mit eigenem Nutzgarten macht, und Nachbar:innen in Halberstadt, die mit einer mobilen Fahrradwerkstatt …",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/die-20-gewinnerideen-von-klimaschutz-nebenan/",
+          "lang": "de",
+          "published": "2026-10-29T11:19:53.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Truth, Elections and the Questionable History of the Club Sandwich",
+          "summary": "In the early-ish days of Wikipedia, my college friends and I had an ongoing contest to see who could introduce a lie into an entry that would stick the longest.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/truth-elections-and-the-questionable-history-of-the-club-sandwich/",
+          "lang": "en",
+          "published": "2026-10-30T08:00:30.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "What went right this week: the good news that matters",
+          "summary": "A victory was won for the Amazon rainforest, a skin cancer vaccine showed promise, and a nicotine loophole was closed in the UK, plus more",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-44-of-2026/",
+          "lang": "en",
+          "published": "2026-10-30T05:00:13.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "‘Panther Pat’ Shines a Light on the Nearly Forgotten First Woman to Play Pro Football",
+          "summary": "JoyDrops champions awards-eligible documentary shorts about joy, a counterweight to a category often dominated by tragedy. Good News Network has partnered with JoyDrops to spotlight these films and talk with the filmmakers behind them.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/panther-pat-shines-a-light-on-the-nearly-forgotten-first-woman-to-play-pro-football/",
+          "lang": "en",
+          "published": "2026-10-29T19:07:07.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "JoyDrops: Short Films Big on Inspiration and Bigger Awards Aspirations",
+          "summary": "JoyDrops: Short Films With Big Hearts and Even Bigger Ambitions Good News Network and Switchboard Magazine have joined forces on JoyDrops, a curated slate of awards-season documentary short films that offer positive perspectives, made by artisan filmmakers …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/joydrops-short-films-big-on-inspiration-and-bigger-awards-aspirations/",
+          "lang": "en",
+          "published": "2026-10-29T19:06:13.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Disabled Veteran Receives Donated Car Beautifully Refurbished by Auto Collision Students",
+          "summary": "After spending years without wheels but with no shortage of errands, a Minneapolis veteran recently received a transformational gift.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/disabled-veteran-receives-donated-car-beautifully-refurbished-by-auto-collision-students/",
+          "lang": "en",
+          "published": "2026-10-29T18:30:19.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Birdwatching Rewires the Brain and Slows Cognitive Decline",
+          "summary": "A famous poet once wrote that hope is a thing with feathers. Well, new research may suggest that healthy aging is too. Specifically, the research examined how expertise required for identifying birds aided in maintaining neuroplasticity, a key component to …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/birdwatching-rewires-the-brain-and-slows-cognitive-decline/",
+          "lang": "en",
+          "published": "2026-10-29T15:30:03.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "items": [
         {
@@ -1283,5 +1369,5 @@
       ]
     }
   ],
-  "updated": "2026-10-29"
+  "updated": "2026-10-30"
 }
