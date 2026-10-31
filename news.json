@@ -1,6 +1,65 @@
 {
   "editions": [
     {
+      "date": "2026-10-31",
+      "items": [
+        {
+          "category": "Gesellschaft",
+          "title": "Sechs gute Nachrichten, die Lust auf den Herbst machen",
+          "summary": "Wir tauchen ein in die schönsten Seiten der goldenen Jahreszeit! Erfahrt heute, wie sich die Natur wandelt und welche einfachen Mittel gegen den Herbstblues helfen",
+          "source": "Good News",
+          "url": "https://goodnews.eu/sechs-gute-nachrichten-die-lust-auf-den-herbst-machen/",
+          "lang": "de",
+          "published": "2026-10-31T09:20:57.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "Zulassungsrekorde für E-Autos weltweit, keine Verjährung mehr für Kindesmissbrauch in Frankreich, neue Medizin-Uni in Cottbus",
+          "summary": "Sechs gute Nachrichten für einen guten Start ins Wochenende.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/zulassungsrekorde-fuer-e-autos-weltweit-keine-verjaehrung-mehr-fuer-kindesmissbrauch-in-frankreich-neue-medizin-uni-in-cottbus/",
+          "lang": "de",
+          "published": "2026-10-30T12:49:33.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Your Halloween Horoscope Advice: ‘Free Will Astrology’ by Rob Brezsny",
+          "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-31-2026/",
+          "lang": "en",
+          "published": "2026-10-31T10:00:12.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Best Spud Harvest in a Decade Clears the Gloom of Crops Failing from Scorching Summer",
+          "summary": "Amid a summer of crop failures, a spud-tacular potato harvest in Japan showed that banner years are still in the almanac even as climate uncertainty continues to make farming more challenging.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/",
+          "lang": "en",
+          "published": "2026-10-30T18:30:53.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "New Texas School Is Named For Longtime Janitor ‘Miss Marilyn’ (Watch Her Reaction)",
+          "summary": "Unlike beauty, honor manifests in the eye of the honored. And though it isn’t a Super Bowl ring or an Academy Award, for one career custodian at a Texas school district, the honor she lately received is greater than anything she had ever imagined.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/",
+          "lang": "en",
+          "published": "2026-10-30T15:30:55.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "A Farmer Didn’t Know His Cell Number Was on an Exam Question, Now Uses the Calls He Gets as Opportunities to Inspire",
+          "summary": "A young student has been accepted into a prestigious university thanks in part to an unusual source of inspiration: a strawberry farmer he met because of a question on an English exam.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/",
+          "lang": "en",
+          "published": "2026-10-30T13:00:13.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-10-30",
       "items": [
         {
@@ -1369,5 +1428,5 @@
       ]
     }
   ],
-  "updated": "2026-10-30"
+  "updated": "2026-10-31"
 }
