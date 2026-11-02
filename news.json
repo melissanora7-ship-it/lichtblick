@@ -1,6 +1,56 @@
 {
   "editions": [
     {
+      "date": "2026-11-02",
+      "items": [
+        {
+          "category": "Gesellschaft",
+          "title": "Strangers Ran Towards the Fire to Save Teen–Her Mom Now Funds Scholarships for Heroes Like Them",
+          "summary": "5 years ago, 18-year-old Kenli Riney suffered a head-on collision on a Texas highway. Her car spun into a ditch and caught fire. Behind her, the Argote family was driving along and saw the whole thing.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/strangers-ran-toward-burning-car-to-save-teen-her-mom-now-funds-scholarships-for-heroes-like-them/",
+          "lang": "en",
+          "published": "2026-11-02T12:00:52.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "The women’s boxing nights helping abuse survivors",
+          "summary": "A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
+          "lang": "en",
+          "published": "2026-11-02T09:26:16.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Islands Near Portugal Turn Off Lights to Protect Seabird Fledglings Every October – 30k Already Saved",
+          "summary": "Each autumn, during the last five nights in October, there is a blackout on Corvo island—but it’s not by accident. On the small island in the Portuguese Azores, more than 400 residents are protecting some of the world’s most vulnerable birds, while setting an …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/",
+          "lang": "en",
+          "published": "2026-11-02T03:04:49.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Housing Nonprofit Funds $16.5 Million in Eviction Relief to Assist Renters",
+          "summary": "The Atlanta-based nonprofit that launched an Eviction Relief Fund during the COVID pandemic has now assisted over 5,500 families so they could stay in their apartments.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/",
+          "lang": "en",
+          "published": "2026-11-01T22:53:28.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "High School Fills Entire Football Field With Groceries to Replenish New Jersey Food Banks",
+          "summary": "Hundreds of New Jersey students collected over a quarter million pounds of food during the second annual 100-Yard Food Drive Challenge last week.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
+          "lang": "en",
+          "published": "2026-11-01T15:34:01.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-01",
       "items": [
         {
@@ -1469,5 +1519,5 @@
       ]
     }
   ],
-  "updated": "2026-11-01"
+  "updated": "2026-11-02"
 }
