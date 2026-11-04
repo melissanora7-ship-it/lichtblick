@@ -1,6 +1,101 @@
 {
   "editions": [
     {
+      "date": "2026-11-04",
+      "items": [
+        {
+          "category": "Wissenschaft",
+          "title": "Erste Schwarze Gouverneurin in den USA, Studie zeigt, wie sozial gerechter Klimaschutz geht, Deutschland produziert weniger zuckerhaltige Getränke",
+          "summary": "Gute Nachrichten für eine gute Wochenmitte.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/erste-schwarze-gouverneurin-in-den-usa-studie-zeigt-wie-sozial-gerechter-klimaschutz-geht-deutschland-produziert-weniger-zuckerhaltige-getraenke/",
+          "lang": "de",
+          "published": "2026-11-04T11:19:21.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "USA: Historische Wahlerfolge sorgen für mehr Vielfalt in der Politik",
+          "summary": "Bei den US-Zwischenwahlen am 3. November 2026 haben gleich mehrere Kandidat:innen politische Geschichte geschrieben. In Georgia wurde mit Keisha Lance Bottoms erstmals eine Schwarze Frau zur Gouverneurin gewählt.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/usa-historische-wahlerfolge-sorgen-fuer-mehr-vielfalt-in-der-politik/",
+          "lang": "de",
+          "published": "2026-11-04T08:42:56.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "Große Mehrheit hat Verständnis für die Anliegen der Jugenproteste, Frauenanteil in Dax-Vorständen steigt wieder, vollelektrisches Flugzeug absolviert Testflug",
+          "summary": "Gute Nachrichten für einen besseren Tag.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/grosse-mehrheit-hat-verstaendnis-fuer-die-anliegen-der-jugenproteste-frauenanteil-in-dax-vorstaenden-steigt-wieder-vollelektrisches-flugzeug-absolviert-testflug/",
+          "lang": "de",
+          "published": "2026-11-03T14:04:20.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Who needs a golden ticket? The race to future-proof chocolate",
+          "summary": "A student has made six bars from cocoa grown in Reading, where varieties are being developed that could help with climate change",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/who-needs-a-golden-ticket-the-race-to-future-proof-chocolate/",
+          "lang": "en",
+          "published": "2026-11-04T10:47:49.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Loch Ness Is About to Welcome a New Monster Not Seen There in 500 Years–the Beaver!",
+          "summary": "Loch Ness is about to welcome a new monster. This beastie is not to be trifled with: it has razor-sharp teeth and can easily knock down a fully-grown tree. Beavers were last sighted in the area around Scotland’s most famous lake between 1526 and 1527.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/loch-ness-is-about-to-welcome-a-new-monster-the-beaver-500-years-since-it-last-lived-there/",
+          "lang": "en",
+          "published": "2026-11-03T19:30:09.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "He Donated His Ultra-rare Blood 545 Times While Visiting Every Blood Bank in Australia",
+          "summary": "Pictured here enjoying jokes and a juice box, Trevor Bergman has now successfully donated his ultra-rare blood at all 85 Australian donation centers.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/ultra-rare-blood-carrier-finishes-grand-tour-around-australia-to-donate-at-all-85-blood-banks/",
+          "lang": "en",
+          "published": "2026-11-03T16:30:35.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "The Counter-Extremism Expert Building Our Capacity for Compassion",
+          "summary": "A former Los Angeles gang member, a former skinhead and a former radical Islamist walk into a youth center. What sounds like the setup for an uneasy joke is at the core of Farah Pandith’s work: Put people who might otherwise never share a room in front of …",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/counter-extremism-expert-farah-pandith-compassion-rebuilding-connection/",
+          "lang": "en",
+          "published": "2026-11-03T15:07:47.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "What if we stop treating social care like a service? This village shows the way",
+          "summary": "A village in England has created a social care community based on communal living and shared responsibility. Could it catch on?",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/what-if-we-stopped-treating-social-care-like-a-service/",
+          "lang": "en",
+          "published": "2026-11-03T14:34:15.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "This Wheelchair Skateboarding Teacher Already Conquered Mountains and Marathons",
+          "summary": "This rolling inspiration is Xie Junwu, an iron-willed wheelchair-bound althlete who’s climbed mountains, completed marathons, and now spends his days skateboarding.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/he-conquered-mountains-and-marathons-now-he-teaches-wheelchair-skateboarding-watch/",
+          "lang": "en",
+          "published": "2026-11-03T14:00:36.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Rebuilding Mosques Brings Sikhs, Hindus and Muslims Together After Punjab Violence",
+          "summary": "In the Indian state of Punjab, Muslims are watching Sikhs and Hindus organize the rebuilding of old mosques destroyed following Partition.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/rebuilding-mosques-brings-sikhs-hindus-and-muslims-together-after-punjab-violence/",
+          "lang": "en",
+          "published": "2026-11-03T12:00:24.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-03",
       "items": [
         {
@@ -1587,5 +1682,5 @@
       ]
     }
   ],
-  "updated": "2026-11-03"
+  "updated": "2026-11-04"
 }
