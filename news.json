@@ -1,6 +1,74 @@
 {
   "editions": [
     {
+      "date": "2026-11-05",
+      "items": [
+        {
+          "category": "Klima",
+          "title": "Brasilien bringt weltweiten Ausstieg aus fossiler Energie voran, historische Erfolge bei US-Wahlen, Linderung von Nebenwirkungen der Krebstherapie",
+          "summary": "Gute Nachrichten für einen guten Tag.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/brasilien-bringt-weltweiten-ausstieg-aus-fossiler-energie-voran-historische-erfolge-bei-us-wahlen-linderung-von-nebenwirkungen-der-krebstherapie/",
+          "lang": "de",
+          "published": "2026-11-05T07:45:43.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Historische Fortschritte bei US-Wahlen, größtes Akku-Schiff nimmt Fahrt auf",
+          "summary": "Hier kommt der lösungsorientierte Nachrichten-Überblick, zusammengestellt von unserem Partner Squirrel News.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/historische-fortschritte-bei-us-wahlen/",
+          "lang": "de",
+          "published": "2026-11-04T15:23:20.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Miracle Recovery Sees Seabirds Reclaim Former Colony After Avian Flu Wiped Them Out",
+          "summary": "In nothing short of a miracle, a colony of seabirds in England to multiply from 0 to 756 in just 3 years. As everyone learns in school, 0 times anything is still 0, but these breeding sandwich tern pairs moved into the colony on England’s south coast after …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
+          "lang": "en",
+          "published": "2026-11-05T12:00:52.000Z"
+        },
+        {
+          "category": "Wissenschaft",
+          "title": "Next Week’s New Moon to Highlight the Blazing Tails of the Taurid Meteor Shower",
+          "summary": "Though the Northern Taurid Meteor Shower doesn’t peak until 3 days later, the best chance to catch its renowned shooting stars is Monday the 9th, when the New Moon guarantees the least amount of light pollution. That will be key to enjoying the N.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/next-weeks-new-moon-to-highlight-the-blazing-tails-of-the-taurid-meteor-shower/",
+          "lang": "en",
+          "published": "2026-11-05T09:15:43.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "The Grandfather Puzzle Pieces Together a Family History One Man Wouldn’t Talk About",
+          "summary": "JoyDrops champions awards-eligible documentary shorts about joy, a counterweight to a category often dominated by tragedy. Good News Network has partnered with JoyDrops to spotlight these films and talk with the filmmakers behind them.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/the-grandfather-puzzle-pieces-together-a-family-history-one-man-wouldnt-talk-about/",
+          "lang": "en",
+          "published": "2026-11-04T19:55:27.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Brazil Expands Protected Area for ‘One of the Richest and Most Sensitive Biomes on the Planet’",
+          "summary": "Brazilian environmental authorities have increased the size of a key national park by more than 25% of its original size. That might not sound like much on paper, but Pantanal Matogrossense National Park was 523 square miles, and it was just expanded by 185 …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/brazil-expands-protected-area-for-one-of-the-richest-and-most-sensitive-biomes-on-the-planet/",
+          "lang": "en",
+          "published": "2026-11-04T19:30:10.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "The Election That Transcended Tribalism",
+          "summary": "Pundits are describing last night as a romp for Democrats, a rebuke of Republicans, a blue tsunami, a rout in the red states.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/midterm-elections-transcend-tribalism/",
+          "lang": "en",
+          "published": "2026-11-04T16:46:50.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-04",
       "items": [
         {
@@ -1682,5 +1750,5 @@
       ]
     }
   ],
-  "updated": "2026-11-04"
+  "updated": "2026-11-05"
 }
