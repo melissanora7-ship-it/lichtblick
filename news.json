@@ -1,6 +1,101 @@
 {
   "editions": [
     {
+      "date": "2026-11-06",
+      "items": [
+        {
+          "category": "Gesellschaft",
+          "title": "Immer mehr Einschränkungen für E-Scooter in Europa, Schüler:innen lernen besser durch Zeitzeug:innen, aus alten Autoreifen wird neues Öl",
+          "summary": "Sechs gute Nachrichten für einen guten Start ins Wochenende.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/immer-mehr-einschraenkungen-fuer-e-scooter-in-europa-schuelerinnen-lernen-besser-durch-zeitzeuginnen-aus-alten-autoreifen-wird-neues-oel/",
+          "lang": "de",
+          "published": "2026-11-06T11:59:24.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Die wichtigsten Funktionen, auf die Sie bei einer Forex-Trading-App achten sollten",
+          "summary": "Sind Sie auf der Suche nach einer Forex-Trading-App in Deutschland? Entdecken Sie die wichtigsten Funktionen, die Sie vergleichen sollten – von Trading-Tools und Gebühren bis hin zu Sicherheit und Benutzerfreundlichkeit.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/die-wichtigsten-funktionen-auf-die-sie-bei-einer-forex-trading-app-achten-sollten/",
+          "lang": "de",
+          "published": "2026-11-05T06:45:30.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "The Spark: When Communities Own the Land, Housing Stays Affordable",
+          "summary": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time. The Spark is generously supported by Laura Rice.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/the-spark-community-land-trusts/",
+          "lang": "en",
+          "published": "2026-11-06T08:00:21.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "What went right this week: the good news that matters",
+          "summary": "Nature was restored at ‘unprecedented scale’, Barbados halted HIV transmission in babies, and a fuel revolution picked up speed, plus more",
+          "source": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/",
+          "lang": "en",
+          "published": "2026-11-06T05:00:54.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "Got Bad Breath? Get Free Dental Care at This Store",
+          "summary": "At a small store in Stockholm, there’s a discount if you pay with bad breath. In fact, they’ll give you everything you need: toothpaste, a toothbrush, flossers, and more all for free—provided your breath is sufficiently rancid.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/got-bad-breath-get-free-dental-care-at-this-store/",
+          "lang": "en",
+          "published": "2026-11-05T19:30:26.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "The butterfly effect: a brighter way to make paint?",
+          "summary": "Researchers are looking to butterflies in the search for coatings without harmful, chemical-based pigments",
+          "source": "Positive News",
+          "url": "https://www.positive.news/science/the-butterfly-effect-a-brighter-way-to-make-paint/",
+          "lang": "en",
+          "published": "2026-11-05T17:32:20.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "400-yo Shipwreck Puzzle Finally Cracked After More Than 20 Years of Mystery",
+          "summary": "With the help of a hospital CT scanner, scientists have cracked the code to a 400-year-old padlock discovered in a treasure-laden shipwreck on a beach in Wales.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/400-yo-padlock-code-finally-cracked-more-than-20-years-after-being-found-in-shipwreck-treasure/",
+          "lang": "en",
+          "published": "2026-11-05T16:30:16.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "The Montana Ranch Where Autistic People Are Wranglers and Guides",
+          "summary": "The staff at Erik’s Ranch & Retreats has a saying: Sheets, towels and lives changed daily. Erik’s Ranch is a guest retreat where autistic people are concierges, guides, wranglers, cooks and more.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/montana-guest-ranch-employing-autistic-people/",
+          "lang": "en",
+          "published": "2026-11-05T15:35:06.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Student-run Automotive Shop Opens to the Public in Houston Where Every Oil Change Helps the Next Generation",
+          "summary": "From the Houston Chronicle comes the story of high schoolers getting down and dirty with their education. Having lately opened an auto shop in the city’s Fifth Ward, students in automotive engineering are ready to change your oil, rotate your tires, or tinker …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation/",
+          "lang": "en",
+          "published": "2026-11-04T16:30:37.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Italy Sees Collapse in its Homicide Rate to 3rd Lowest in the EU",
+          "summary": "2023 saw Italy register the lowest homicide rate in the EU, and the 3rd lowest age-standardized homicide rate. These milestones in the dual quest of combatting organized crime and improving internal security mark an incredible turnaround from the height of …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/italy-sees-collapse-in-its-homicide-rate-to-3rd-lowest-in-the-eu/",
+          "lang": "en",
+          "published": "2026-11-04T14:00:41.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "items": [
         {
@@ -1750,5 +1845,5 @@
       ]
     }
   ],
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }
