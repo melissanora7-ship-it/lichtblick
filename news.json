@@ -1,6 +1,65 @@
 {
   "editions": [
     {
+      "date": "2026-11-07",
+      "items": [
+        {
+          "category": "Gesellschaft",
+          "title": "Für mehr Miteinander – 7 Projekte, die obdach- und wohnungslose Menschen unterstützen",
+          "summary": "In Deutschland und der Welt setzen sich Initiativen dafür ein, dass obdach- und wohnungslose Menschen neue Perspektiven erhalten – und wie wir alle ein Stück Solidarität leben können.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/fuer-mehr-miteinander-7-projekte-die-obdach-und-wohnungslose-menschen-unterstuetzen-2/",
+          "lang": "de",
+          "published": "2026-11-07T09:05:26.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Globaler Fahrplan für Ausstieg aus fossiler Energie, mehr Wohlstand in Usbekistan",
+          "summary": "Hier kommt der lösungsorientierte Nachrichten-Überblick, zusammengestellt von unserem Partner Squirrel News.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/globaler-fahrplan-fuer-ausstieg-aus-fossiler/",
+          "lang": "de",
+          "published": "2026-11-06T15:06:34.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "People Around the World Help Buy Royal Estate for Wildlife Conservation",
+          "summary": "The curlew, mountain bumblebee, lapwing, and other wading birds are just some of the animals calling a one-of-a-kind noble estate home.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
+          "lang": "en",
+          "published": "2026-11-06T21:16:55.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Man Spends 12 Days Returning Lost Cash a Laborer Needed for His Daughter",
+          "summary": "A man in southern Brazil was surprised to find a wad of cash on the ground in a public plaza with no one around looking for it.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/man-spends-12-days-returning-lost-cash-a-laborer-needed-for-his-daughter/",
+          "lang": "en",
+          "published": "2026-11-06T16:30:31.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Venomous Primate Believed Extinct for 100 Years Was Hiding in Plain Sight All Along",
+          "summary": "This big-eyed furball is the Bangka slow loris, a creature that in 2015 was believed to potentially be extinct. As the video demonstrates, the Bangka slow loris (N.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/venomous-primate-believed-extinct-for-100-years-was-hiding-in-plain-sight-all-along/",
+          "lang": "en",
+          "published": "2026-11-06T14:00:28.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Geothermal Utilities Power Wave of US Affordable Housing with 40% Energy Savings",
+          "summary": "A natural gas utility in Vermont struck a first-in-the-nation deal that will soon be saving customers money by turning to geothermal energy.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/geothermal-utilities-power-wave-of-us-affordable-housing-with-40-energy-savings/",
+          "lang": "en",
+          "published": "2026-11-06T12:30:16.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-06",
       "items": [
         {
@@ -1845,5 +1904,5 @@
       ]
     }
   ],
-  "updated": "2026-11-06"
+  "updated": "2026-11-07"
 }
