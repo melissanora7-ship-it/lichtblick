@@ -1,6 +1,56 @@
 {
   "editions": [
     {
+      "date": "2026-11-09",
+      "items": [
+        {
+          "category": "Natur",
+          "title": "Usbekistan hat Armutsquote in vier Jahren mehr als halbiert, Kalifornien will 548 Todesurteile aufheben, seltene Pflanzenart nach 40 Jahren wiederentdeckt",
+          "summary": "Sechs gute Nachrichten für einen guten Start in die Woche.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/usbekistan-hat-armutsquote-in-vier-jahren-mehr-als-halbiert-kalifornien-will-548-todesurteile-aufheben-seltene-pflanzenart-nach-40-jahren-wiederentdeckt/",
+          "lang": "de",
+          "published": "2026-11-09T11:20:37.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "Glowworms Shine Again in the UK from Larvae Reared Pro Bono in Garden Shed",
+          "summary": "The beloved glowworm has gotten a glow-up thanks to pro bono work by local conservationists. Local wildlife enthusiast Peter Cooper collects and breeds glowworms in his spare time in a garden shed before releasing their larvae into a reserve in North …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/",
+          "lang": "en",
+          "published": "2026-11-09T12:30:57.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Dogs Can Sniff-Out Invasive Plant Species With High Accuracy to Curb Their Destruction",
+          "summary": "Sniffer dogs are being trained in Germany to detect potentially destructive invasive plants—alien species that are one of the main causes of biodiversity loss worldwide.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/",
+          "lang": "en",
+          "published": "2026-11-08T18:36:02.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "She Kept His Coat for 30 Years, Then Finally Found the Boy Who Gave It to Her After Racial Attack",
+          "summary": "A coat once placed over the shoulders of a young girl whose traditional Korean uniform had been slashed in a racial incident 30 years ago has now been returned to the ‘good Samaritan’ who offered it.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/she-kept-his-coat-for-30-years-then-finally-found-the-boy-who-gave-it-to-her-after-racial-attack/",
+          "lang": "en",
+          "published": "2026-11-08T16:55:58.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "Lucky Bird Found in Storm Drain a Mile From Home After Passing Driver Happens to Spot it Hopping in",
+          "summary": "A pet budgie that vanished when a storm blew open a kitchen window was found hiding in a storm drain a mile from home. Luna made her great escape from owner Cimberley Frost’s home in Northampton, England when strong winds following Storm Boelo forced open a …",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/lucky-bird-found-in-storm-drain-a-mile-from-home/",
+          "lang": "en",
+          "published": "2026-11-08T14:08:15.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "items": [
         {
@@ -1945,5 +1995,5 @@
       ]
     }
   ],
-  "updated": "2026-11-08"
+  "updated": "2026-11-09"
 }
