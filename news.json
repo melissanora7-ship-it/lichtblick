@@ -1,6 +1,101 @@
 {
   "editions": [
     {
+      "date": "2026-11-17",
+      "items": [
+        {
+          "category": "Gesellschaft",
+          "title": "Das Good News Magazin braucht 1.000 neue Abos",
+          "summary": "Was 2016 mit einer spontanen guten Nachricht unter Freunden begann, ist heute Deutschlands größtes Magazin für Positiven Journalismus. Eine Geschichte über Mut, Zufälle, Gemeinschaft – und die Überzeugung, dass gute Nachrichten die Welt verändern können.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/zehn-jahre-good-news-magazin/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+          "lang": "de",
+          "published": "2026-11-17T11:51:52.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "Weiblichkeitsgefühl statt Brustamputation",
+          "summary": "Der Alltag eines Menschen ist von Grund auf stark durchstrukturiert und hält eine Menge Herausforderungen bereit. Stellt man sich nun vor, zusätzlich mit der Diagnose Brustkrebs konfrontiert zu sein, kommt eine weitere, schwerwiegende Belastung hinzu.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/weiblichkeitsgefuehl-statt-brustamputation/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+          "lang": "de",
+          "published": "2026-11-17T11:48:15.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Wärmepumpen könnten EU-Emissionen um ein Viertel senken, Hoffnung für Menschen mit Diabetes, fünf Millionen Euro für sichereren Verkehr",
+          "summary": "Gute Nachrichten für einen guten Tag.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/waermepumpen-koennten-eu-emissionen-um-ein-viertel-senken-hoffnung-fuer-menschen-mit-diabetes-fuenf-millionen-euro-fuer-sichereren-verkehr/",
+          "lang": "de",
+          "published": "2026-11-17T10:35:48.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "Mobile Notaufnahme, besserer Nachweis von K.O.-Tropfen",
+          "summary": "Hier kommt der lösungsorientierte Nachrichten-Überblick, zusammengestellt von unserem Partner Squirrel News.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/mobile-notaufnahme/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+          "lang": "de",
+          "published": "2026-11-16T15:16:26.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Nachhaltiger Luxus: Wie Premium-Reisen grüner werden",
+          "summary": "Die Terrasse liegt im Morgenlicht, der Kaffee ist frisch, das Meer ruhig. So sieht für viele eine gelungene Premium-Reise aus. Wie stark sie Klima, Natur und Ressourcen belastet, sieht man diesem Bild nicht an.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/nachhaltiger-luxus-wie-premium-reisen-gruener-werden/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+          "lang": "de",
+          "published": "2026-11-16T12:42:00.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "A Waterfall of Fog and Lots of Lighting, These Images Won the UK’s Weather Photography Awards",
+          "summary": "From a waterfall of fog to almighty storms and sunrises, the winners of the 2026 Weather Photographer of the Year competition have been announced.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/a-waterfall-of-fog-and-almighty-storms-these-images-won-the-uks-weather-photography-awards/",
+          "lang": "en",
+          "published": "2026-11-17T12:30:18.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "The People Who Became Wildlife",
+          "summary": "What might it be like to be a bird? Initially Helen Lawy thought being a kestrel would mean freedom. “I love birds, and particularly kestrels — when they’re hovering, they have an amazing overview of the landscape,” she says.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/people-became-wildlife-river-tone/",
+          "lang": "en",
+          "published": "2026-11-17T08:00:02.000Z"
+        },
+        {
+          "category": "Klima",
+          "title": "Farmer Finds Unknown Seeds in His Attic – and Grows an Ancient ‘Miracle’ Grain",
+          "summary": "From the sun-soaked plains of Parma comes the story of an Italian farmer who accidentally brought on a Biblical resurrection with very modern implications for our food system.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/",
+          "lang": "en",
+          "published": "2026-11-16T19:30:28.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "30% Drop in Levels of Forever Chemicals in England’s Rivers, 49% in Fish – ‘Brilliant to See’",
+          "summary": "2 prominent chemical compounds prohibited under international law over health concerns are being found at substantially lower concentrations in England’s rivers.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/",
+          "lang": "en",
+          "published": "2026-11-16T16:30:13.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins",
+          "summary": "A new generation of trash bins are aimed at conserving Japanese civic culture while addressing one of the country’s largest tourism headaches.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/",
+          "lang": "en",
+          "published": "2026-11-16T14:00:03.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-16",
       "items": [
         {
@@ -1962,57 +2057,7 @@
           "published": "2026-10-18T13:42:17.000Z"
         }
       ]
-    },
-    {
-      "date": "2026-10-18",
-      "items": [
-        {
-          "category": "Gesundheit",
-          "title": "Gut für Körper und Geist: 8 gute Nachrichten",
-          "summary": "Ob gemeinsames Essen, Lesen oder Sport: Unsere heutige Ausgabe zeigt wissenschaftlich belegt, warum die schönen Dinge des Lebens die beste Medizin für uns sind.",
-          "source": "Good News",
-          "url": "https://goodnews.eu/gut-fuer-koerper-und-geist-8-gute-nachrichten/",
-          "lang": "de",
-          "published": "2026-10-17T09:02:47.000Z"
-        },
-        {
-          "category": "Gesellschaft",
-          "title": "99-yo Woman Snags ‘World’s Oldest Wing-Walker’ Title – 3 Months After Another Gran Did It (LOOK)",
-          "summary": "A 99-year-old has become the world’s oldest wing-walker—just three months after her niece saw another elderly woman do it, and the staff at her assisted-living facility urged her to try.",
-          "source": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/99-yo-woman-snags-worlds-oldest-wing-walker-title/",
-          "lang": "en",
-          "published": "2026-10-17T19:56:32.000Z"
-        },
-        {
-          "category": "Klima",
-          "title": "Coral Bleaching Reversed at Record Speed Using New Stanford Method: ‘Not a Lost Cause, at All’",
-          "summary": "Coral bleaching has been reversed at record speed using a new method developed at Stanford University. Corals that were ghostly white returned to full health in their lab in a mere seven weeks—the fastest documented recovery to date.",
-          "source": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/coral-bleaching-reversed-at-record-speed-using-new-stanford-method/",
-          "lang": "en",
-          "published": "2026-10-17T17:20:40.000Z"
-        },
-        {
-          "category": "Tiere",
-          "title": "Massive 70lb Dog the Size of Baby Hippo Sheds Pounds and Gets New Home",
-          "summary": "A massive shelter dog that weighed the same as a baby hippo has shed the pounds—and found a new home. The huge bulldog named Peggy Sue swelled to 70 pounds (32.5kg) before she was taken to the RSPCA’s West Hatch Animal Centre in England.",
-          "source": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/",
-          "lang": "en",
-          "published": "2026-10-17T13:51:35.000Z"
-        },
-        {
-          "category": "Gesellschaft",
-          "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
-          "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
-          "source": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-17-2026/",
-          "lang": "en",
-          "published": "2026-10-17T10:00:17.000Z"
-        }
-      ]
     }
   ],
-  "updated": "2026-11-16"
+  "updated": "2026-11-17"
 }
