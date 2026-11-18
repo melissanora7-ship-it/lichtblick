@@ -1,6 +1,74 @@
 {
   "editions": [
     {
+      "date": "2026-11-18",
+      "items": [
+        {
+          "category": "Gesellschaft",
+          "title": "Weltweiter Ökostrom-Boom, was Menschen zum Klimaschutz motiviert, Frauenkollektiv treibt Reycyling in Peru voran",
+          "summary": "Gute Nachrichten, heute auch in eigener Sache.",
+          "source": "Good News",
+          "url": "https://goodnews.eu/weltweiter-oekostrom-boom-was-menschen-zum-klimaschutz-motiviert-frauenkollektiv-treibt-reycyling-in-peru-voran/",
+          "lang": "de",
+          "published": "2026-11-18T11:40:49.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Studieren ab 50 an der OVGU in Magdeburg",
+          "summary": "Lernen hört nicht auf: „Studieren ab 50“ an der OVGU in Magdeburg eröffnet älteren Menschen einen Zugang zu wissenschaftlicher Weiterbildung und zum Austausch mit jüngeren Studierenden.",
+          "source": "Good News Magazin",
+          "url": "https://goodnews-magazin.de/studieren-ab-50-an-der-ovgu-in-magdeburg/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+          "lang": "de",
+          "published": "2026-11-18T09:27:00.000Z"
+        },
+        {
+          "category": "Gesundheit",
+          "title": "Scientists ‘Cure’ Deadly Brain Tumors in Every Mouse Tested with New Cancer Therapy",
+          "summary": "In experiments involving mice, scientists successfully eliminated an aggressive childhood brain cancer while also providing lasting protection.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/",
+          "lang": "en",
+          "published": "2026-11-18T12:30:20.000Z"
+        },
+        {
+          "category": "Natur",
+          "title": "What We’re Reading: Phone Bans Are Improving Kids’ Test Scores",
+          "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/what-were-reading-phone-bans-improving-test-scores/",
+          "lang": "en",
+          "published": "2026-11-18T08:00:04.000Z"
+        },
+        {
+          "category": "Tiere",
+          "title": "West Coast’s First Ever Sea Turtle Hatchlings Released into the Pacific (LOOK)",
+          "summary": "Olive ridley sea turtle hatchlings saved from an approaching storm in California were released into the wild over the weekend.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
+          "lang": "en",
+          "published": "2026-11-17T19:30:43.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Algeria Returns Kindness Shown by Kansans Who Welcomed its World Cup Team with the Trip of a Lifetime",
+          "summary": "In early November, several exhausted Kansas families touched down in Algeria at 4:30 a.m. and were shocked at what was waiting for them.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/",
+          "lang": "en",
+          "published": "2026-11-17T16:30:41.000Z"
+        },
+        {
+          "category": "Gesellschaft",
+          "title": "Warren Buffett Gives Away $5.5 Billion in Thanksgiving Gift, Saying Kindness Is Priceless",
+          "summary": "Warren Buffett marked another Thanksgiving by converting thousands of Berkshire Hathaway shares into a charitable donation valued at about $5.5 billion.",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
+          "lang": "en",
+          "published": "2026-11-17T15:55:24.000Z"
+        }
+      ]
+    },
+    {
       "date": "2026-11-17",
       "items": [
         {
@@ -1998,66 +2066,7 @@
           "published": "2026-10-19T11:00:50.000Z"
         }
       ]
-    },
-    {
-      "date": "2026-10-19",
-      "items": [
-        {
-          "category": "Klima",
-          "title": "A Wall Meant to Divide Is Uniting Left and Right in Texas",
-          "summary": "In August, videos of bulldozers ripping up the mouth of the iconic Santa Elena Canyon in Texas’ Big Bend went viral, propelling one of the country’s most remote national parks into the national spotlight.",
-          "source": "Reasons to be Cheerful",
-          "url": "https://reasonstobecheerful.world/behind-the-remarkable-resistance-to-trumps-big-bend-wall/",
-          "lang": "en",
-          "published": "2026-10-19T08:00:14.000Z"
-        },
-        {
-          "category": "Tiere",
-          "title": "Volunteers became salmon, deer and earthworms. Then they set out to save their river",
-          "summary": "An experiment is helping a Somerset community see its landscape through the eyes of wildlife – and plot a 30-year route to change it",
-          "source": "Positive News",
-          "url": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
-          "lang": "en",
-          "published": "2026-10-19T07:00:44.000Z"
-        },
-        {
-          "category": "Natur",
-          "title": "Contact With Nature is Linked to Healthy Eating, Shows Encouraging New Study",
-          "summary": "A new study has discovered that contact with nature may help people develop healthier eating habits. The research from Anglia Ruskin University in the UK is reportedly the first to provide evidence that exposure to natural environments can influence people’s …",
-          "source": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/contact-with-nature-is-linked-to-healthy-eating-study/",
-          "lang": "en",
-          "published": "2026-10-18T22:41:09.000Z"
-        },
-        {
-          "category": "Tiere",
-          "title": "Tiny Black Cat Stuck in Car Engine Brings Unexpected Joy to Couple With Halloween Wedding Anniversary",
-          "summary": "A high school teacher in Sandy Springs, Georgia, got an unexpected surprise on her way to work earlier this month. “It was a pretty wild story,” she told GNN—and it happened just in time to celebrate her Halloween wedding anniversary.",
-          "source": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
-          "lang": "en",
-          "published": "2026-10-18T20:32:45.000Z"
-        },
-        {
-          "category": "Gesellschaft",
-          "title": "Retired Couple Surprised With New HVAC System Worth $16k in a ‘Feel the Love’ Program That’s Aided 3100 Folks",
-          "summary": "An Oregon couple facing financial hardship can now endure the winter in comfort and with ‘peace of mind’ since a new HVAC system was installed in their home at no cost.",
-          "source": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
-          "lang": "en",
-          "published": "2026-10-18T17:19:59.000Z"
-        },
-        {
-          "category": "Gesellschaft",
-          "title": "Village Installs Knitted Traffic Cops to Slow Down Speeding Drivers",
-          "summary": "Villagers have knitted speed cameras and life-sized traffic cops to fake-out reckless motorists, in a bid to slow down drivers.",
-          "source": "Good News Network",
-          "url": "https://www.goodnewsnetwork.org/village-installs-knitted-traffic-cops-to-slow-speeding-drivers/",
-          "lang": "en",
-          "published": "2026-10-18T13:42:17.000Z"
-        }
-      ]
     }
   ],
-  "updated": "2026-11-17"
+  "updated": "2026-11-18"
 }
